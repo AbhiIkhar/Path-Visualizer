@@ -3,4 +3,4 @@
 - Implemented interactive graph visualization using the vis.js library to display the problem and solution graphs.
 - Created a user-friendly interface with two containers, allowing users to generate random graph problems and visualize the shortest path solution.
 - Take a look 
-https://abhiikhar.github.io/Testing_Deploy/
+[https://abhiikhar.github.io/Testing_Deploy/](https://abhiikhar.github.io/Path-Visualizer/)
